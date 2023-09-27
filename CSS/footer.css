@@ -1,0 +1,27 @@
+.main{
+    background-color: black;
+    color: yellow;
+    
+
+}
+.foot{
+    display: flex;
+    padding: 30px;
+}
+#info{
+    width: 100%;
+}
+#customer{
+    width: 100%;
+}
+#extras{
+    width: 100%;
+}
+#account{
+    width: 100%;
+}
+p{
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+

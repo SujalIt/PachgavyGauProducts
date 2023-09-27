@@ -1,0 +1,31 @@
+body{
+    
+}
+.main{
+    
+}
+/* first product*/
+#realghee{
+    
+}
+#gir{
+    color: rgb(33, 17, 252);
+}
+#realgheedata{
+    
+}
+.wholebutton{
+    
+}
+.wholebutton
+button{
+    width: 15%;
+    padding: 4px;
+    line-height: 35px;
+    border: none;
+}
+.wholebutton
+button + button{
+    width: 5%;
+}
+

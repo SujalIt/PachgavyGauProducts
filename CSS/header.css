@@ -1,0 +1,52 @@
+header.first {
+    display: flex;
+    background-color: gray;
+    word-spacing: 15px;
+    align-items: center;
+    padding: 13px;
+    font-size: 16px;
+}
+.currency{
+    margin-left: 10px;   
+}
+.call{
+    margin-left: 300px;
+    
+}
+
+/* second header */
+.secondh {
+    background-color:rgb(174, 167, 167);
+    display: flex;
+    padding: 15px; 
+}
+#logo{
+    
+}
+#search {
+     margin-left: 300px;
+     margin-top: 70px; 
+}
+#search input{
+    width: 80%;
+    height: 28px;
+}
+.items{
+    padding: 70px;
+    margin-left: 100px;
+}
+#inneritems input{
+    width: 200px;
+    height: 35px;
+    background-color:black ;
+    color: white;
+}
+
+/* third header */
+.nav{
+    background-color: skyblue;
+    padding: 25px;
+    border-radius: 9px;
+    word-spacing: 10px;
+    font-size:20px;
+}
